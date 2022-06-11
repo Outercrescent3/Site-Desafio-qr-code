@@ -7,15 +7,11 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 - [Visão Geral](#overview)
   - [Captura de ecrã](#screenshot)
   - [Links](#links)
-- [O meu processo](#my-process)
   - [Construído com](#built-with)
   - [O que aprendi](#what-i-learned)
-  - [desenvolvimento continuado](#continuação do desenvolvimento)
-  - [Recursos úteis](#recursos úteis)
-- [Autor](#autor)
-- [Agradecimentos](#acknowledgments)
+  - [Autor](#autor)
 
-**Note: Apague esta nota e actualize o índice com base nas secções que guarda.**
+
 
 ## Visão geral
 
@@ -25,10 +21,8 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 ### Ligações
 
-- URL da solução: [Adicione aqui o URL da solução](https://your-solution-url.com)
-- URL do sítio em directo: [Adicione aqui o URL do sítio em directo](https://your-live-site-url.com)
-
-## O meu processo
+- URL da solução: [Desafio](https://outercrescent3.github.io/Site-Desafio-qr-code/)
+- URL do sítio em directo: [Github](https://github.com/)
 
 #### Construído com
 
