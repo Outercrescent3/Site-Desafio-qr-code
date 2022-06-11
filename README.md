@@ -1,87 +1,106 @@
-# Frontend Mentor - QR code component
+# Mentor de Frontend - solução de componente de código QR
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+Esta é uma solução para o [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam-no a melhorar as suas capacidades de codificação através da construção de projectos realistas. 
 
-## Welcome! 👋
+## Tabela de conteúdos
 
-Thanks for checking out this front-end coding challenge.
+- [Visão Geral](#overview)
+  - [Captura de ecrã](#screenshot)
+  - [Links](#links)
+- [O meu processo](#my-process)
+  - [Construído com](#built-with)
+  - [O que aprendi](#what-i-learned)
+  - [desenvolvimento continuado](#continuação do desenvolvimento)
+  - [Recursos úteis](#recursos úteis)
+- [Autor](#autor)
+- [Agradecimentos](#acknowledgments)
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+**Note: Apague esta nota e actualize o índice com base nas secções que guarda.**
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+## Visão geral
 
-## The challenge
+### Imagem de ecrã
 
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
+![](./screenshot.jpg)
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Adicione uma imagem de ecrã da sua solução. A forma mais fácil de o fazer é utilizar o Firefox para visualizar o seu projecto, clicar com o botão direito do rato na página e seleccionar "Take a Screenshot". Pode escolher uma imagem de ecrã de altura total ou uma imagem cortada com base no comprimento da página. Se for muito longa, talvez seja melhor cortá-la.
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+Em alternativa, pode usar uma ferramenta como [FireShot](https://getfireshot.com/) para tirar a captura de ecrã. FireShot tem uma opção gratuita, pelo que não precisa de a adquirir. 
 
-## Where to find everything
+Depois, corte/optimize/edite a sua imagem como quiser, adicione-a ao seu projecto, e actualize o caminho do ficheiro na imagem acima.
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+**Nota: Apague esta nota e os parágrafos acima quando adicionar a sua imagem de ecrã. Se preferir não adicionar uma captura de ecrã, sinta-se à vontade para remover toda esta secção.**
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+### Ligações
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+- URL da solução: [Adicione aqui o URL da solução](https://your-solution-url.com)
+- URL do sítio em directo: [Adicione aqui o URL do sítio em directo](https://your-live-site-url.com)
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+## O meu processo
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+#### Construído com
 
-## Building your project
+- Marcação HTML5 semântica
+- Propriedades personalizadas do CSS
+- Flexbox
+- Grelha CSS
+- Fluxo de trabalho móvel-primeiro
+- [Reagir](https://reactjs.org/) - Biblioteca do JS
+- [Next.js](https://nextjs.org/) - Reagir enquadramento
+- [Componentes Estilizados](https://styled-components.com/) - Para estilos
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+**Note: Estes são apenas exemplos. Elimine esta nota e substitua a lista acima com as suas próprias escolhas***.
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+### O que aprendi
 
-## Deploying your project
+Utilize esta secção para recapitular algumas das suas principais aprendizagens enquanto trabalha neste projecto. Escrever estas e fornecer amostras de código de áreas que pretende destacar é uma óptima forma de reforçar os seus próprios conhecimentos.
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+Para ver como pode adicionar trechos de código, ver abaixo:
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+```html
+<h1>algum código HTML de que me orgulho</h1>
+```
+```css
+.proud-of-this-css {
+  cor: papayawhip;
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
+```
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+Se quiser mais ajuda para escrever o Markdown, recomendamos que consulte [The Markdown Guide](https://www.markdownguide.org/) para saber mais.
 
-## Create a custom `README.md`
+**Note: Apague esta nota e o conteúdo desta secção e substitua com as suas próprias aprendizagens.**
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+### Continuação do desenvolvimento
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+Utilize esta secção para delinear as áreas que pretende continuar a focar em projectos futuros. Estes poderão ser conceitos com os quais ainda não se sinta completamente à vontade ou técnicas que considere úteis e que deseje aperfeiçoar e aperfeiçoar.
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+**Nota: Apague esta nota e o conteúdo desta secção e substitua-a pelos seus próprios planos para o desenvolvimento continuado.**
 
-## Submitting your solution
+### Recursos úteis
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
+- [Recurso de exemplo 1](https://www.example.com) - Isto ajudou-me por razões XYZ. Gostei muito deste padrão e vou utilizá-lo no futuro.
+- [Recurso de exemplo 2](https://www.example.com) - Este é um artigo surpreendente que me ajudou finalmente a compreender XYZ. Recomendá-lo-ia a qualquer pessoa que ainda esteja a aprender este conceito.
 
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+**Note: Apagar esta nota e substituir a lista acima por recursos que o ajudaram durante o desafio. Estes podem ser úteis para qualquer pessoa que veja a sua solução ou para si próprio quando olhar para trás neste projecto no futuro.**
 
-## Sharing your solution
+## Autor
 
-There are multiple places you can share your solution:
+- Website - [Adicione o seu nome aqui](https://www.your-site.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@seu nome de utilizador](https://www.twitter.com/yourusername)
 
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
+**Note: Apague esta nota e adicione/remove/edite linhas acima com base nos links que gostaria de partilhar.**
 
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
+## Agradecimentos
 
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
+É aqui que pode dar uma dica de chapéu a qualquer pessoa que o tenha ajudado neste projecto. Talvez tenha trabalhado em equipa ou se tenha inspirado na solução de outra pessoa. Este é o local perfeito para lhes dar algum crédito.
 
-## Got feedback for us?
+**Note: Apague esta nota e edite o conteúdo desta secção conforme necessário. Se completou este desafio sozinho, sinta-se à vontade para apagar completamente esta secção.**
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
+Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
